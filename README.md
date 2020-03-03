@@ -1,2 +1,0 @@
-# tapasList
-Created with CodeSandbox
